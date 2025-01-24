@@ -18,13 +18,12 @@ Before setting up the project, ensure you have the following installed:
 
 ## Installation
 
-1. **Clone the Repository**:
-
+1. Clone the Repository
    ```bash
    git clone https://github.com/MarawanHassaan/Questions-App-Backend.git
    cd Questions-App-Backend
    ```
-2. Install Dependencies:
+2. Install Dependencies
   ```bash
   bundle install
   ```
